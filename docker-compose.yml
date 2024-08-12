@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: student-db-management-app
+    environment:
+      DATABASE_URL: sqlite:///app/student_db.sqlite3
+    volumes:
+      - .:/app
+      - student_db_data:/app
+    stdin_open: true
+    tty: true
+
+volumes:
+  student_db_data:

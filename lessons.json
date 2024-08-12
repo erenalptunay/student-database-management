@@ -1,0 +1,79 @@
+{
+  "Dönem 1": {
+    "ENG 101": "Akademik İngilizce I",
+    "EHS 101": "İş Sağlığı ve Güvenliği",
+    "EPR 121": "Girişimciliğin Temelleri",
+    "IUL 151": "Üniversite Hayatına Giriş",
+    "CENG 105": "Bilgisayar Programlama (C Programlama) I",
+    "CENG 107": "Bilgisayar Programlama (C Programlama) Laboratuvarı I",
+    "MATH 101": "Mühendislik Matematiği I",
+    "PHYS 103": "Mühendislik Fiziği I",
+    "PHYS 105": "Mühendislik Fiziği Laboratuvarı I",
+    "CENG 111": "Bilgisayar ve Yazılım Mühendisliğine Giriş"
+  },
+  "Dönem 2": {
+    "ENG 102": "Akademik İngilizce II",
+    "EPR 122": "Girişimcilik Projesi",
+    "IUL 152": "Geleceğin İnşası",
+    "WED 126": "İş Yeri Eğitimi",
+    "MATH 102": "Mühendislik Matematiği II",
+    "PHYS 104": "Mühendislik Fiziği II",
+    "PHYS 106": "Mühendislik Fiziği II Laboratuvarı",
+    "CENG 106": "Bilgisayar Programlama (C++ Programlama ) II",
+    "CENG 108": "Bilgisayar Programlama (C++ Programlama ) Laboratuvarı II",
+    "MATH 201": "Lineer Cebir"
+  },
+  "Dönem 3": {
+    "ATA 101": "Atatürk İlkeleri ve İnkılap Tarihi I",
+    "TUR 101": "Türk Dili I",
+    "WAP 227": "İş Yeri Uygulaması I",
+    "EEE 201": "Elektrik Devreleri I",
+    "CENG 213": "Ayrık Hesaplama Yapıları",
+    "MATH 202": "Diferansiyel Denklemler",
+    "CENG 207": "Sayısal Tasarım I",
+    "CENG 215": "Nesneye Dayalı Programlama"
+  },
+  "Dönem 4": {
+    "ATA 102": "Atatürk İlkeleri ve İnkılap Tarihi II",
+    "TUR 102": "Türk Dili II",
+    "WAP 228": "İş Yeri Uygulaması II",
+    "SENG 208": "Python ile Programlama",
+    "MATH 204": "Olasılık ve İstatistik",
+    "CENG 208": "Mikroelektronik Aygıtlar ve Devreler",
+    "CENG 204": "Sistem Programlama",
+    "CENG 206": "Veri Yapıları ve Algoritmalar"
+  },
+  "Dönem 5": {
+    "LCE 301": "Mühendisler için Hukuk Kavramları",
+    "WAP 327": "İş Yeri Uygulaması III",
+    "MATH 301": "Sayısal Analiz ve Bilimsel Hesaplama",
+    "CENG 301": "Algoritmalar Analizi",
+    "CENG 303": "İşletim Sistemleri",
+    "CENG 311": "Mikroişlemciler",
+    "CENG 313": "Yönetim Bilişim Sistemleri",
+    "SENG 305": "Formal Diller ve Automata"
+  },
+  "Dönem 6": {
+    "WEX 328": "İş Yeri Deneyimi I",
+    "CENG 302": "Veri Tabanı Sistemlerine Giriş",
+    "CENG 310": "Yazılım Mühendisliği",
+    "CENG 312": "Bilgisayar Mühendisleri için Sinyal İşleme",
+    "CENG 314": "Bilgisayar Ağları",
+    "CENG 316": "Bilgisayar Organizasyonu",
+    "CENG 318": "Web Programlama",
+    "NTE 1": "Teknik Olmayan Seçmeli"
+  },
+  "Dönem 7": {
+    "WEX 427": "İş Yeri Deneyimi II",
+    "SENG 405": "Makine Öğrenmesi ve Yapay Zeka",
+    "CENG 403": "Mobil Sistemlerde Uygulama Geliştirme",
+    "ELEC 1": "Seçmeli Ders I (CENG 4XX)",
+    "ELEC 2": "Seçmeli Ders II (CENG 4XX)",
+    "ELEC 3": "Seçmeli Ders III (CENG 4XX)",
+    "ELEC 4": "Seçmeli Ders IV (CENG 4XX)"
+  },
+  "Dönem 8": {
+    "WEX 428": "İş Yeri Deneyimi III",
+    "CENG 400": "Mezuniyet Projesi"
+  }
+}

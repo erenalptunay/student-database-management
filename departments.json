@@ -1,0 +1,42 @@
+{
+    "MÜHENDİSLİK FAKÜLTESİ": [
+        "Bilgisayar Mühendisliği (Türkçe)",
+        "Bilgisayar Mühendisliği (İngilizce)",
+        "Elektrik Elektronik Mühendisliği (İngilizce)",
+        "Endüstri Mühendisliği (Türkçe)",
+        "Endüstri Mühendisliği (İngilizce)",
+        "Havacılık ve Uzay Mühendisliği (İngilizce)",
+        "Makine Mühendisliği (İngilizce)",
+        "Nanoteknoloji Mühendisliği (İngilizce)",
+        "Yazılım Mühendisliği (Türkçe)",
+        "Yazılım Mühendisliği (İngilizce)",
+        "Yapay Zeka Mühendisliği (Türkçe)"
+    ],
+    "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ": [
+        "Ekonomi (İngilizce)",
+        "İşletme (İngilizce)",
+        "Pazarlama (İngilizce)",
+        "Uluslararası Ticaret ve Finansman (İngilizce)",
+        "Yönetim Bilişim Sistemleri (Türkçe)",
+        "Yönetim Bilişim Sistemleri (İngilizce)"
+    ],
+    "MİMARLIK VE TASARIM FAKÜLTESİ": [
+        "Endüstriyel Tasarım (Türkçe)",
+        "İç Mimarlık ve Çevre Tasarımı (Türkçe)"
+    ],
+    "MESLEK YÜKSEKOKULU": [
+        "Bilgisayar Programcılığı",
+        "Bilişim Güvenliği Teknolojisi",
+        "Biyomedikal Cihaz Teknolojisi",
+        "E-Ticaret ve Pazarlama",
+        "Elektrik",
+        "Elektronik Teknolojisi",
+        "Hibrid ve Elektrikli Taşıtlar Teknolojileri",
+        "İnsansız Hava Aracı Teknolojisi ve Operatörlüğü",
+        "Lojistik",
+        "Makine",
+        "Mekatronik",
+        "Silah Sanayi Teknikerliği",
+        "Üretimde Kalite Kontrol"
+    ]
+}
